@@ -42,10 +42,9 @@ main {
     box-shadow: 0px 0px 5px black;
     background-color: brown ;
     border-radius: 5px;
-    min-width: 270px;
-    max-width: 332px;
+    max-width: 248px;
     padding: 5px;
-    font-family:   'Courier New', Courier, monospace;
+    font-family:   Arial, Helvetica, sans-serif;
     font-size: 23pt;
     font-style: normal;
     font-weight: normal;
