@@ -61,7 +61,7 @@ main {
 }
 
 .prato_direita {
-    margin-right: 50px;
+    margin-right: 100px;
     text-align: right;
     font-size: 20pt;
     color: black;
@@ -72,14 +72,14 @@ main {
 
 .imgesq {
     width: 110px;
-    margin-left: 50px;
+    margin-left: 30px;
     margin-top: -59px;
 
 }
 
 .img_dir {
     width: 110px;
-    margin-right: 50px;
+    margin-right: 60px;
     margin-top: -59px;
 }
 
@@ -88,7 +88,7 @@ main {
 }
 
 .pedir_dir {
-    margin-right: 150px;
+    margin-right: 190px;
     min-width: 270px; 
     
 }
