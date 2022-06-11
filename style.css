@@ -1,0 +1,143 @@
+@charset "UTF-8";
+@import url('https://fonts.googleapis.com/css2?family=Indie+Flower&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Kalam:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Mali:wght@200&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Merienda&display=swap');
+
+body {
+    background-color: white;
+    margin: 0;
+}
+
+ #titulo {
+    border-radius: 5px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: normal;
+    color: yellow;
+    text-align: center;
+    background-color: red;
+    padding: 7px;
+    margin-top: 0;
+    background-color:red; 
+}
+
+.fast {
+    font-size: 12pt;
+    color: yellow;
+}
+
+main {
+    background-color: rgba(242, 255, 0, 0.773);
+    min-width: 270px;
+    max-width: 1200px;
+    margin: auto;
+    box-shadow: 0px 0px 5px black;
+    padding-top: 24px;
+    padding-bottom: 24px;
+}
+
+.principais{
+    margin: auto;
+    color: white;
+    box-shadow: 0px 0px 5px black;
+    background-color: brown ;
+    border-radius: 5px;
+    width: 332px;
+    padding: 5px;
+    font-family:   'Courier New', Courier, monospace;
+    font-size: 23pt;
+    font-style: normal;
+    font-weight: normal;
+}
+
+.prato_esq {
+    margin-left: 30px;
+    font-size: 20pt;
+    color: black;
+    font-family: 'Mali', serif;
+    font-weight: normal;
+}
+
+.prato_direita {
+    margin-right: 50px;
+    text-align: right;
+    font-size: 20pt;
+    color: black;
+    font-family: 'Mali', serif;
+    font-weight: normal;
+}
+
+.imgesq {
+    width: 110px;
+    margin-left: 50px;
+    margin-top: -59px;
+}
+
+.img_dir {
+    width: 110px;
+    margin-right: 50px;
+    margin-top: -59px;
+}
+
+.pedir {
+    margin-left: 150px;
+}
+
+.pedir_dir {
+    margin-right: 150px;
+    align-items: baseline;
+
+    
+}
+
+.link {
+    color: white;
+    text-decoration: none;
+    font-style: normal;
+    font-family: Arial, Helvetica, sans-serif;
+    box-shadow: 0px 0px 5px black;
+    background-color: red;
+    border-radius: 5px;
+    padding: 5px;
+}
+
+.bebidas {
+    color: yellow;
+    background-color: rgb(215, 15, 15);
+    text-align: center;
+    height: 549px;
+    padding-top: 20px;
+    font-family: 'Merienda',Times, sans-serif;
+    font-style: italic;
+}
+.menu_bebidas {
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.confira {
+    border-radius: 6px;
+    color: floralwhite;
+    text-align: center;
+    margin:auto;
+    box-shadow: 0px 0px 5px black;
+    min-width: 270px;
+    max-width: 340px;
+    background-color: rgba(61, 7, 7, 0.995);
+    padding: 5px;
+    margin-top: 20px;
+}
+
+.menu_especial {
+    text-decoration: none;
+    
+}
+
+.copyright {
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: italic;
+    font-size: 12pt;
+    background-color: white;
+    color: black;
+    padding-top: 4px;
+}
